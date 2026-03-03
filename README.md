@@ -1,5 +1,5 @@
-# Unblocked OS by Bronson Segura
-Bro use this in class if u still are in grade school. U can also go to this link for games, https://sites.google.com/hbcsd.us/school
+# Unblocked OS by Bronson Segura 
+This is an entirely HTML minimal OS that I made. It is really easy to use and updates a lot so stay around for more features. You can also go to this link for games, https://sites.google.com/hbcsd.us/school/home
 
-The password is hackr359
+The password to the user accoumt is hackr359
 
